@@ -40,4 +40,4 @@ This project is aimed at creating a predictive model for housing prices using ma
 
 This project demonstrates the process of developing a predictive model for housing prices using machine learning techniques. It includes data preprocessing, feature engineering, model building, and hyperparameter tuning to optimize model performance. The Random Forest Regressor is found to be the better-performing model for predicting housing prices in this context.
 
-You can refer to the code and visualizations provided in the project to understand the details of the data analysis and modeling process.
+You can refer to the code and visualizations provided in the master branch of the project to understand the details of the data analysis and modeling process.
